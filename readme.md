@@ -1,5 +1,5 @@
-# SSCAR Image Search API
-### FastAPI v1.0
+# SSCAR Image Search API V1.0
+### FastAPI | MongoDB
 
 **Requirement**
 - user can add car (information and images)
